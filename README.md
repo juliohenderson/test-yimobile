@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Libs used on this project
+
+1 - [Axios](https://github.com/axios/axios)<br>
+2 - [Styled-components](https://github.com/styled-components/styled-components)<br>
+3 - [React-loader-spinner](https://github.com/mhnpd/react-loader-spinner)<br>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
